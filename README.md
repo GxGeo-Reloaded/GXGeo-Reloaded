@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="GxGeo-Reloader.gif" alt="GXGeo Reloaded" width="640">
+</p>
 GxGeo Reloaded R24
 Emulataeur Neo Geo pour Nintendo Wii
 
